@@ -28,7 +28,7 @@ make
 
 Option `n00b` loads a set of 1024 easy puzzles. Option `l33t` loads a set of
 1024 harder puzzles. Adding a number will load that specific puzzle number,
-leaving it out with load a random puzzle from the set.
+leaving it out will load a random puzzle from the set.
 
 The arrow keys move the cursor around the grid. Enter digits using 1-9, and
 erase a mistake with 0, full-stop or backspace.
